@@ -75,3 +75,6 @@ For options 2 and 3, you'll be prompted to choose algorithms for Player 1 and Pl
 
 * The `gemini_algo` relies on the Google Gemini API, so you'll need an API key to use it (See algorithims.py). The exe uses our api key.
 * The performance of the `gemini_algo` may vary depending on the API's response time.
+
+
+(ADDITIONAL INFO: Many files such as files from group22_TermProject/venv/Lib/site-packages and group22_TermProject/build/main/main.pkg, and the file dist/main are MISSING from this repository as they were too large to upload to github. If anyone reading this needs access to those files, email me at cagri.isilak@gmail.com for the original file.)
