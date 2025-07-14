@@ -78,4 +78,6 @@ For options 2 and 3, you'll be prompted to choose algorithms for Player 1 and Pl
 
 
 (ADDITIONAL INFO: Many files such as files from group22_TermProject/venv/Lib/site-packages and group22_TermProject/build/main/main.pkg, and the file dist/main are MISSING from this repository
-as they were too large to upload to github. If anyone reading this needs access to those files, email me at cagri.isilak@gmail.com for the original file.)
+as they were too large to upload to github. If anyone reading this needs access to those files, email me at cagri.isilak@gmail.com for the original file
+
+Take a look at Report.pdf for the project paper.
